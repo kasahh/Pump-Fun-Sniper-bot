@@ -4,9 +4,9 @@ Pump.fun is a decentralized exchange for Solana NFTs and tokens. It is a fast, e
 
 
 
-## VIDEO DEMONSTRATION 📀
+## IMAGE  📀
 
-https://github.com/milkersman/pumpcow-pumpfun-bot/assets/167958821/058d2d99-c37e-43a0-9aca-a5b032adcb63
+![IMAGE](https://github.com/PumpFunner/PumpFun-Sniper/blob/main/image.png)
 
 
 ### 💊 BUY
